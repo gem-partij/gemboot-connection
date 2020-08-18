@@ -1,0 +1,23 @@
+{
+	"name": "gemboot-connection",
+	"version": "1.0.0",
+	"description": "Gemboot DB Connection",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/gem-partij/gemboot-connection.git"
+	},
+	"keywords": [
+		"NodeJS",
+		"Gemboot"
+	],
+	"author": "“Angger <“anggerpputro@gmail.com”>",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/gem-partij/gemboot-connection/issues"
+	},
+	"homepage": "https://github.com/gem-partij/gemboot-connection#readme"
+}
